@@ -1,1 +1,19 @@
-
+{
+  "licenses": [
+    {
+      "key": "ANUBIS-2024-XXXX-1234",
+      "active": true,
+      "expiry": "2025-12-31"
+    },
+    {
+      "key": "ANUBIS-2024-YYYY-5678",
+      "active": true,
+      "expiry": "2026-01-31"
+    },
+    {
+      "key": "ANUBIS-TRIAL-DEMO-0001",
+      "active": false,
+      "expiry": "2024-12-31"
+    }
+  ]
+}
